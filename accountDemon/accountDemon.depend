@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1551667752 source:e:\study\c\accountdemon\account.c
+	"account.h"
+
+1551668419 e:\study\c\accountdemon\account.h
+	<stdio.h>
+	<stdlib.h>
+
+1551668634 source:e:\study\c\accountdemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	"account.h"
+
+1551668634 source:d:\study\c\accountdemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	"account.h"
+
+1551674350 d:\study\c\accountdemon\account.h
+	<stdio.h>
+	<stdlib.h>
+

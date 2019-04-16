@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1551698604 source:e:\study\c\cametradedemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GameTrade.h"
+
+1551698705 e:\study\c\cametradedemo\gametrade.h
+
+1551698592 source:e:\study\c\cametradedemo\gametrade.c
+	"GameTrade.h"
+
+1555329969 source:d:\study\c\cametradedemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GameTrade.h"
+
+1555318901 d:\study\c\cametradedemo\gametrade.h
+
+1555330606 source:d:\study\c\cametradedemo\gametrade.c
+	<stdio.h>
+	"GameTrade.h"
+	<string.h>
+
